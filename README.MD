@@ -33,12 +33,24 @@ PEEKPICK 은 점심시간, 쉬는시간, 버스 대기시간 등의 ```지루한
 
 <table>
     <tr>
-        <td height="140px" align="center"> <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/39e7d97f-8f19-42de-843c-508263bd1c86" height="140px" width="140px" /> </td>
-        <td height="140px" align="center">  <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/62259cc2-9f7d-49e5-8e1e-bd0a1a26950b" height="140px" width="140px" /> </td>
-        <td height="140px" align="center">  <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/2022ff66-6a83-4928-8bd7-da13725ce3b9" height="140px" width="140px" /> </td>
-        <td height="140px" align="center">  <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/38d14030-c01e-4179-98ad-35830548ebb9" height="140px" width="140px" /> </td>
-        <td height="140px" align="center"> <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/8bae6f71-7f8d-4f09-8a85-ad53a9d9993a" height="140px" width="140px" /> </td>
-        <td height="140px" align="center">  <img src="https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7/assets/70866410/92c6827d-7803-4cd4-aab5-a251a8947573" height="140px" width="140px" /> </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/Dayoung1014" width="140px" /> 
+        </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/meoldae" width="140px" /> 
+        </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/97Kzone" width="140px" /> 
+        </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/Semibro" width="140px" /> 
+        </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/KyongBeom" width="140px" /> 
+        </td>
+        <td height="140px" align="center"> 
+            <img src="https://avatars.githubusercontent.com/DongMinE" width="140px" /> 
+        </td>
     </tr>
     <tr>
         <td align="center"> <a href="https://github.com/Dayoung1014"> 👑이다영 </a></td>
